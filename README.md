@@ -1,9 +1,24 @@
+👋 Hey, I'm Zaki!
+💻 Full-Stack Developer · Software Engineering Student · Tech Enthusiast
+
+<p> <img src="https://komarev.com/ghpvc/?username=zakikhan100sz-glitch&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" /> </p>
 
 
 <div data-importer="profile-views" align="right">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=zakikhan100sz-glitch.zakikhan100sz-glitch&"  />
 </div>
+🚀 About Me
 
+I'm a Computer Science student and Full-Stack Developer who enjoys turning ideas into real-world applications.
+
+🎓 Studying Computer Science / Software Engineering
+💻 Building modern Full-Stack Web Applications
+⚛️ Working with React, Next.js & Tailwind CSS
+🟢 Building APIs with Node.js & Express
+🍃 Working with MongoDB & cloud services
+🤖 Exploring AI & Machine Learning
+⛓️ Interested in Blockchain & Web3
+🚀 Always learning, building, and experimenting
 <img data-importer="snake" src="https://raw.githubusercontent.com/zakikhan100sz-glitch/zakikhan100sz-glitch/snake-output/snake.svg" alt="Snake animation" />
 
 
