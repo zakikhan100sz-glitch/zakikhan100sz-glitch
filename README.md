@@ -1,12 +1,4 @@
-<br clear="both">
 
-<h1 data-importer="text" align="left">WELCOM BUDDY!</h1>
-
-###
-
-<h2 data-importer="text" align="left">Hey 🙌<br>Good To See You 👍🏻</h2>
-
-###
 
 <div data-importer="profile-views" align="right">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=zakikhan100sz-glitch.zakikhan100sz-glitch&"  />
