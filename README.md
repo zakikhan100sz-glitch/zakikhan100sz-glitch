@@ -1,16 +1,10 @@
 👋 Hey, I'm Zaki!
-💻 Full-Stack Developer · Software Engineering Student · Tech Enthusiast
+<h1>💻 Full-Stack Developer · Software Engineering Student · Tech Enthusiast</h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=zakikhan100sz-glitch&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" /> </p>
 
-
-<div data-importer="profile-views" align="right">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=zakikhan100sz-glitch.zakikhan100sz-glitch&"  />
-</div>
-🚀 About Me
-
+<h3>🚀 About Me</h3> 
 I'm a Computer Science student and Full-Stack Developer who enjoys turning ideas into real-world applications.
-
 🎓 Studying Computer Science / Software Engineering
 💻 Building modern Full-Stack Web Applications
 ⚛️ Working with React, Next.js & Tailwind CSS
